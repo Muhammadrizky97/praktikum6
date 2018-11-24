@@ -13,3 +13,5 @@ Jika input 2 maka hitung hasil=a-b dan cetak hasilnya.
 Jika input 3 maka hitung hasil=a*b dan cetak hasilnya.
 Jika input 4 maka hitung hasil=a/b dan cetak hasilnya.
 Program end.
+
+![sslatihan1](https://user-images.githubusercontent.com/43899133/48963735-b04c7380-efcb-11e8-935a-fb270684f9a7.png)
