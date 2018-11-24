@@ -15,3 +15,6 @@ Jika input 4 maka hitung hasil=a/b dan cetak hasilnya.
 Program end.
 
 ![sslatihan1](https://user-images.githubusercontent.com/43899133/48963735-b04c7380-efcb-11e8-935a-fb270684f9a7.png)
+![sslatihan2](https://user-images.githubusercontent.com/43899133/48963753-fd304a00-efcb-11e8-98aa-4ae4799512bb.png)
+![sshasilperkalian](https://user-images.githubusercontent.com/43899133/48963756-07524880-efcc-11e8-8310-10d2befa0310.png)
+![sslatihan4](https://user-images.githubusercontent.com/43899133/48963760-0e795680-efcc-11e8-8fc4-ba56c83ef2a4.png)
